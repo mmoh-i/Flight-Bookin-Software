@@ -1,0 +1,8 @@
+Start Date:Wednesday, February 16, 2022
+Start Date:Tuesday, February 22, 2022
+local Flight:Azman Air
+From:Lagos
+To:Maiduguri
+Gender:Male
+Seat Postition:Seat position
+Flight Class:Flight Class
