@@ -1,8 +1,0 @@
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.csproj.AssemblyReference.cache
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.csproj.SuggestedBindingRedirects.cache
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.csproj.CoreCompileInputs.cache
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.exe.config
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.exe
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.pdb
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.exe
-C:\Users\El_Musty\Desktop\C#\GuessTheNumberGame\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.pdb
